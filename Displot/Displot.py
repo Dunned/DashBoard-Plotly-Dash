@@ -3,6 +3,7 @@ import plotly.offline as pyo
 import plotly.figure_factory as ff
 import numpy as np
 
+
 array1 = np.random.randn(500)
 array2 = np.random.randn(500)+2
 
